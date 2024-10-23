@@ -1,0 +1,3 @@
+at1.pcapng  brufor http
+at2.pcapng ddos SYN, sql,... 
+SpanPort chỉ phù hợp khi có thiết bị hỗ trợ
